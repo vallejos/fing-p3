@@ -1,0 +1,47 @@
+22
+1 -1
+2 3 -1
+3 -1
+4 -1
+5 -1
+6 -1
+7 -1
+0 2 -1
+9 10 -1
+10 -1
+11 -1
+12 -1
+13 -1
+8 12 -1
+15 -1
+16 17 -1
+17 -1
+18 -1
+19 21 -1
+20 -1
+19 21 -1
+14 -1
+Mamifero 20 Yaguare 300 Carnivoros 1 Vertebrados 5 -1 -1
+Mamifero 20 Nutria 200 Carnivoros 1 Vertebrados 1 -1 -1
+Mamifero 20 Carpincho 100 Roedores 1 Herbivoros 4 Vertebrados 2 -1 -1
+Mamifero 20 LoboDeMar 300 Carnivoros 4 Vertebrados 2 -1 -1
+Mamifero 20 Pecari 100 Carnivoros 5 Vertebrados 3 -1 -1
+Mamifero 20 Aperea 150 Roedores 2 Vertebrados 1 -1 -1
+Mamifero 20 TucuTucu 250 Roedores 10 Herbivoros 5 Vertebrados 2 -1 -1
+Mamifero 20 Tatu 300 Insectivoros 200 Vertebrados 1 -1 -1
+Reptiles 10 Crucera 250 Viboras 10 Carnivoros 1 -1 -1
+Reptiles 10 Yarara 130 Viboras 20 Carnivoros 2 -1 -1
+Reptiles 10 Coral 340 Viboras 30 Carnivoros 1 -1 -1
+Reptiles 10 Culebra 200 Carnivoros 5 -1 -1
+Reptiles 10 Yacare 180 Carnivoros 1 -1 -1
+Reptiles 10 Lagarto 120 Carnivoros 1 -1 -1
+Aves 30 Cisne 300 Insectivoros 2 -1 -1
+Aves 30 Calandria 230 Pajaro 100 Insectivoros 10 -1 -1
+Aves 30 Zorzal 120 Pajaro 200 Insectivoros 3 -1 -1
+Aves 30 Jilguero 230 Pajaro 100 Insectivoros 3 -1 -1
+Aves 30 Urraca 120 Pajaro 300 Insectivoros 5 -1 -1
+Aves 30 Naranjero 340 Pajaro 150 Insectivoros 2 -1 -1
+Aves 30 Picaflor 300 Pajaro 300 Insectivoros 4 -1 -1
+Aves 30 Lechuza 120 Insectivoros 10 -1 -1
+identificarColecciones 31 Mamifero Yaguare Carnivoros Vertebrados Nutria Carpincho Roedores Herbivoros LoboDeMar Pecari Aperea TucuTucu Tatu Insectivoros Reptiles Crucera Viboras Yarara Coral Culebra Yacare Lagarto Aves Cisne Calandria Pajaro Jilguero Urraca Naranjero Picaflor Lechuza
+salir

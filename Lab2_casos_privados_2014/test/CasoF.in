@@ -1,0 +1,37 @@
+17
+1 2 -1
+0 2 4 -1
+1 0 -1
+-1
+5 -1
+-1
+7 8 -1
+8 9 -1
+9 -1
+6 -1
+11 12 -1
+12 -1
+13 -1
+14 15 -1
+10 -1
+16 -1
+-1
+Artigas 20 Flores 300 Rivera 50 -1 -1
+Artigas 20 Rivera 50 -1 -1
+Artigas 20 Rivera 1 -1 -1
+Soriano 50 Montevideo 150 -1 -1
+Salto 60 Flores 35 Florida 20 -1 -1
+Rivera 70 -1 -1
+Maldonado 50 Rivera 10 Durazno 100 -1 -1
+Maldonado 40 Durazno 1 -1 -1
+Maldonado 10 Durazno 2 -1 -1
+Maldonado 20 Durazno 3 -1 -1
+Montevideo 100 Rocha 100 -1 -1
+Montevideo 10 Rocha 50 -1 -1
+Montevideo 50 Rocha 50 -1 -1
+Montevideo 50 Rocha 50 -1 -1
+Montevideo 40 Rocha 40 -1 -1
+Paysandu 80  -1 -1
+Rocha 200 -1 -1
+identificarColecciones 11 Artigas Flores Rivera Soriano Montevideo Salto Florida Maldonado Durazno Paysandu Rocha
+salir

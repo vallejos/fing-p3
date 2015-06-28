@@ -1,0 +1,17 @@
+7
+1 2 -1
+0 -1
+3 -1
+4 -1
+-1
+6 -1
+5 -1
+Fauna 5 Flora 1 -1 -1
+Fauna 6 Flora 8 -1 -1
+Fauna 7 Flora 3 -1 -1
+Campo 6 Fauna 8 -1 -1
+Campo 4 Agua 11 -1 -1
+Agua 10 -1 -1
+Agua 3 -1 -1
+identificarColecciones 4 Fauna Flora Agua Campo
+salir

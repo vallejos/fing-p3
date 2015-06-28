@@ -1,0 +1,51 @@
+24
+16 15 11 17 14 6 13 10 2 -1
+13 6 10 8 15 14 16 3 -1
+13 10 1 -1
+10 13 4 -1
+14 19 15 16 21 12 8 -1
+12 11 10 9 -1
+13 0 -1
+18 14 6 -1
+20 18 7 -1
+15 16 19 21 12 -1
+-1
+17 -1
+17 18 19 16 -1
+-1
+20 21 5 -1
+11 -1
+23 21 -1
+15 -1
+-1
+23 -1
+14 -1
+20 -1
+-1
+19 -1
+Matematica 16 GestOrg 1 ActIntProy 1 CienHumanas 1 -1 -1
+Matematica 9 GestOrg 1 -1 -1
+Matematica 16 GestOrg 1 -1 -1
+Matematica 9 GestOrg 1 CiencExp 1 -1 -1
+Matematica 9  GestOrg 1 -1 -1
+Programacion 10 CiencExp 1 CienHumanas 1 -1 -1
+Matematica 10 GestOrg 1 -1 -1
+Matematica 12 GestOrg 1 CiencExp 1 CienHumanas 1 -1 -1
+Matematica 9 GestOrg 1 ActIntProy 2 -1 -1
+Programacion 12 ArqSORed 1 CiencExp 1 CienHumanas 1 -1 -1
+CalcNum 8 ArqSORed 1 -1 -1
+ArqSORed 12 InvOper 1 IARob 1 -1 -1
+Programacion 15 CalcNum 1 CiencExp 1 CienHumanas 1 -1 -1
+InvOper 10 CiencExp 1 GestOrg 2 -1 -1
+Programacion 12 CiencExp 1 CienHumanas 1 -1 -1
+ArqSORed 12 InvOper 1 IARob 1 -1 -1
+Programacion 15 ArqSORed 2 CiencExp 1 CienHumanas 1 -1 -1
+ArqSORed 12 IARob 1 CienHumanas 1 -1 -1
+BaseDatos 15 Matematica 1 CalcNum 2 -1 -1
+ActIntProy 15 -1 -1
+Programacion 10 Matematica 1 CiencExp 1 CienHumanas 1 -1 -1
+Programacion 7 Matematica 1 CiencExp 1 CienHumanas 1 -1 -1
+IngSoftware 10 IARob 1 CienHumanas 2 -1 -1
+ActIntProy 15 -1 -1
+identificarColecciones 12 Matematica Programacion CalcNum ArqSORed InvOper BaseDatos ActIntProy IngSoftware CiencExp IARob GestOrg CienHumanas
+salir

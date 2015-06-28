@@ -1,0 +1,52 @@
+24
+1 -1
+2 -1
+3 -1
+4 -1
+5 -1
+0 -1
+7 14 -1
+8 -1
+6 -1
+10 -1
+11 -1
+12 -1
+13 -1
+9 14 -1
+15 -1
+16 -1
+17 -1
+18 -1
+14 -1
+20 -1
+21 -1
+22 -1
+23 -1
+19 -1
+LaVela 100 Hereford 100 ChalaMadre 500 -1 -1
+LaVela 100 Hereford 1 ChalaMadre 500 -1 -1
+LaVela 100 Hereford 100 ChalaMadre 500 -1 -1
+LaVela 100 Hereford 1 -1 -1
+LaVela 100 Hereford 1 -1 -1
+LaVela 100 Hereford 1 -1 -1
+Trotsky 50 OnceTiros 10 LaTrampa 1000 -1 -1
+Trotsky 50 OnceTiros 10 -1 -1
+Trotsky 50 OnceTiros 45 -1 -1
+Estomagos 130 Buitres 10 LaAbuelaCoca 300 -1 -1
+Estomagos 100 Buitres 100 OnceTiros 1000 -1 -1
+Estomagos 130 Buitres 1 OnceTiros 1000 -1 -1
+Estomagos 100 Buitres 4 OnceTiros 1000 -1 -1
+Estomagos 130 Buitres 50 OnceTiros 1000 -1 -1
+Buitres 90 ElCuarteto 10 LaAbuelaCoca 1000 -1 -1
+Buitres 60 ElCuarteto 110 LaAbuelaCoca 1000 -1 -1
+Buitres 90 ElCuarteto 1 LaAbuelaCoca 300 -1 -1
+Buitres 100 ElCuarteto 5 -1 -1
+Buitres 100 ElCuarteto 2 LaAbuelaCoca 1200 -1 -1
+NTVG 300 Hereford 10 ElCuarteto 10 -1 -1
+NTVG 20 Hereford 100 ElCuarteto 1000 -1 -1
+NTVG 100 Hereford 1 -1 -1
+NTVG 200 Hereford 3 ElCuarteto 2410 -1 -1
+NTVG 150 Hereford 5 ElCuarteto 5 -1 -1
+identificarColecciones 10 LaVela Trotsky Estomagos Buitres NTVG ChalaMadre OnceTiros LaAbuelaCoca LaTrampa ElCuarteto
+identificarColecciones 1 LaAbuelaCoca
+salir

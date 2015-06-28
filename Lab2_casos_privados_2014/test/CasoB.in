@@ -1,0 +1,15 @@
+5
+1 -1
+2 3 -1
+4 -1
+4 -1 
+-1
+Flora 30 Fauna 20 Campo 15 -1 -1
+Flora 25 Fauna 14 Campo 10 -1 -1
+Flora 20 Fauna 10 Campo 8 -1 -1
+Flora 15 Fauna 5 Campo 3 -1 -1
+Flora 10 Campo 2 -1 -1
+identificarColecciones 3 Flora Fauna Campo
+identificarColecciones 3 Fauna Campo Flora 
+identificarColecciones 3 Campo Flora Fauna
+salir
